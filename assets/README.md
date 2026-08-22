@@ -1,4 +1,3 @@
-# Screenshots
+# Media
 
-Only product screenshots or short demo media should be placed in this folder. Before publishing, confirm that screenshots do not expose user data, administrator credentials, API keys, private URLs, browser bookmarks, or developer tools.
-
+This folder contains privacy-reviewed product screenshots used by the main README. Application source code and private deployment details are not included.

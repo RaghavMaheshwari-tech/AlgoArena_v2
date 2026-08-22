@@ -17,6 +17,37 @@ AlgoArena is a full-stack coding practice platform for solving programming probl
 - AI-assisted doubt solving with Gemini
 - Personal dashboard with progress and activity insights
 
+## Product Tour
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/screenshots/practice-problems.png" alt="AlgoArena practice problem library" />
+      <p align="center"><strong>Practice problem library</strong></p>
+    </td>
+    <td width="50%">
+      <img src="assets/screenshots/code-editor.png" alt="AlgoArena problem workspace and code editor" />
+      <p align="center"><strong>Problem workspace and code editor</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/screenshots/contest-arena.png" alt="AlgoArena coding contest arena" />
+      <p align="center"><strong>Coding contest arena</strong></p>
+    </td>
+    <td width="50%">
+      <img src="assets/screenshots/dashboard.png" alt="AlgoArena user progress dashboard" />
+      <p align="center"><strong>Progress dashboard</strong></p>
+    </td>
+  </tr>
+</table>
+
+### Context-aware AI Mentor
+
+![AlgoArena context-aware AI mentor alongside the code editor](assets/screenshots/ai-mentor.png)
+
+The mentor stays focused on the active programming problem and guides users with hints, approaches, and explanations.
+
 ## Technology
 
 | Area | Technologies |
@@ -60,4 +91,3 @@ The application source and deployment pipeline are maintained in a separate priv
 Copyright © 2026 Raghav Maheshwari. All rights reserved.
 
 No license is granted to copy, modify, redistribute, sublicense, or use the private AlgoArena implementation. See [COPYRIGHT.md](COPYRIGHT.md).
-
