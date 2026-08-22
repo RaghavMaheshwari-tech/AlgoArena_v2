@@ -4,6 +4,10 @@ AlgoArena is a full-stack coding practice platform for solving programming probl
 
 > **Showcase repository:** The production source code is intentionally kept private. This repository contains product documentation and a high-level architecture overview only.
 
+## Preview
+
+![AlgoArena AI-powered DSA learning platform landing page](assets/screenshots/landing-page.png)
+
 ## Highlights
 
 - Problem solving with run and submit flows powered by Judge0
