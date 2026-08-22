@@ -1,0 +1,29 @@
+# Never publish application source from the private project
+frontend/
+backend/
+src/
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Deployment automation is maintained privately
+.github/workflows/
+
+# Local/editor files
+.DS_Store
+.idea/
+.vscode/
+*.log
+
