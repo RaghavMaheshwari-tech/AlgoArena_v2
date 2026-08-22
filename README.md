@@ -42,12 +42,6 @@ AlgoArena is a full-stack coding practice platform for solving programming probl
   </tr>
 </table>
 
-### Context-aware AI Mentor
-
-![AlgoArena context-aware AI mentor alongside the code editor](assets/screenshots/ai-mentor.png)
-
-The mentor stays focused on the active programming problem and guides users with hints, approaches, and explanations.
-
 ## Technology
 
 | Area | Technologies |
