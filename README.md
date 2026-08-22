@@ -2,6 +2,8 @@
 
 AlgoArena is a full-stack coding practice platform for solving programming problems, participating in contests, reviewing submissions, and learning through editorials and AI-assisted doubt solving.
 
+**Live application:** [Launch AlgoArena →](https://algoarena.maheshwari.site/)
+
 > **Showcase repository:** The production source code is intentionally kept private. This repository contains product documentation and a high-level architecture overview only.
 
 ## Preview
